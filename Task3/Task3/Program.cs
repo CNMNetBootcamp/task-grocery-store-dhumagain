@@ -6,6 +6,7 @@ namespace Task3
     {
         static void Main(string[] args)
         {
+            //Good
             //setup
             int numberOfBottles = 0;
             int response = 0;
